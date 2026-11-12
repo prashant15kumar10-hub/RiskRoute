@@ -1,0 +1,14 @@
+{
+  "evaluated_high_risk_cases": 150,
+  "validity_rate": 0.6,
+  "constraint_satisfaction_rate": 1.0,
+  "mean_action_count": 1.444,
+  "mean_normalized_cost": 0.874,
+  "mean_probability_reduction": 0.4425,
+  "mean_runtime_ms": 354.053,
+  "nearest_case_baseline": {
+    "validity_rate": 1.0,
+    "constraint_satisfaction_rate": 0.0,
+    "mean_changed_features": 5.113
+  }
+}

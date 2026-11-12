@@ -1,0 +1,1 @@
+$p = Get-ChildItem -Recurse -Filter START_PROJECT.bat | Select-Object -First 1; Set-Location $p.DirectoryName; & $p.FullName
